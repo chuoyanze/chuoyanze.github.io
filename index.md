@@ -4,24 +4,12 @@ title: 星合の空
 ---
 ## Contact
 
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Phone: **+86 18756280097**
+- Phone: **+86 15043809473**
 - E-mail:
-  - **wu.kan@foxmail.com**
-  - **wukan3@mail2.sysu.edu.cn**
-  - **im.wu.kan@gmail.com**
-- WeChat: **Wu-_-Kan**
-- QQ: **942759535**
-- Blog: **<https://wu-kan.github.io>**
-
-## Education
-
-School of Data and Computer Science, Sun Yat-sen University, Guangzhou, Sept. 2017 - Jul. 2021(expected)
-
-- Bachelor of Computer Science (Supercomputer Class)
-  - Principle of Supercomputer
-  - Parallel and Distributed Computing
-  - High Performance Computing
+  - **chuoyanze@gxmail.com**
+- WeChat: **chuoyanze**
+- QQ: **1604288625**
+- Blog: **<https://chuoyanze.github.io>**
 
 ## Honor
 

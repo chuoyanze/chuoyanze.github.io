@@ -5,11 +5,10 @@ permalink: /about
 ---
 ## 开始
 
-1. Fork [wu-kan/wu-kan.github.io](https://github.com/wu-kan/wu-kan.github.io/fork)到你的仓库，并在设置里开启gh-pages
+1. Fork 到你的仓库，并在设置里开启gh-pages
 2. 修改`_config.yml`为你自己的信息
 3. 删除`_post/`下的博文和`public/image/`文件夹下的图片，开始写你自己的文章
 4. 详细配置可以参见[这篇博文](https://wu-kan.github.io/posts/博客搭建/基于Jekyll搭建个人博客)
-5. 欢迎<a class="github-button" aria-label="Star wu-kan/wu-kan.github.io on GitHub" href="https://github.com/wu-kan/wu-kan.github.io" data-icon="octicon-star" data-show-count="true">Star</a><a class="github-button" aria-label="Fork wu-kan/wu-kan.github.io on GitHub" href="https://github.com/wu-kan/wu-kan.github.io/fork" data-icon="octicon-repo-forked" data-show-count="true">Fork</a><a class="github-button" aria-label="Issue wu-kan/wu-kan.github.io on GitHub" href="https://github.com/wu-kan/wu-kan.github.io/issues" data-icon="octicon-issue-opened" data-show-count="true">Issue</a>
 
 ## 声明
 
@@ -79,6 +78,7 @@ Live2D来自于[stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/
 我该做什么？
 
 > 章北海感到父亲的灵魂从冥冥中降落到飞船上，与他融为一体，他按动了操作界面上那个最后的按钮，心中默念出那个他用尽一生的努力所追求的指令：
+>
 > > “‘自然选择’，前进四！”
 
 ## 历程

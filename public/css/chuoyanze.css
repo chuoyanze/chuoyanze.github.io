@@ -9,7 +9,7 @@
   }
 }
 body {
-  background: url(public/image/background.png);
+  background: url(../public/image/background.png);
   background-size: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;

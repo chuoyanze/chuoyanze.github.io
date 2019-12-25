@@ -1,12 +1,12 @@
 ---
 layout: index
-title: 星合の空
+title: content
 ---
 ## Contact
 
 - Phone: **+86 15043809473**
 - E-mail:
-  - **chuoyanze@gxmail.com**
+  - **chuoyanze@gmail.com**
 - WeChat: **chuoyanze**
 - QQ: **1604288625**
 - Blog: **<https://chuoyanze.github.io>**

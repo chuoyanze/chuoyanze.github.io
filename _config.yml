@@ -180,7 +180,7 @@ sidebar:
     enable: true
     img: public/image/headimage.jpg # 头像的地址
     info: <br/>CCUT17级在读<br/>电子信息工程<br/> # 头像背后的信息
-  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
+  #description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
   social:
   - title: chuoyanze@gmail.com # email
     href: mailto:chuoyanze@gmail.com

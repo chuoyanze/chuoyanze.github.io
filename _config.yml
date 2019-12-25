@@ -67,13 +67,13 @@ head: # 删改前确定知道自己在做什么
   - key: rel
     value: apple-touch-icon-precomposed
   - key: href
-    value: //gravatar.loli.net/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=144
+    value: /public/image/headimage.jpg
 - tag: link # 小图标，同上
   var:
   - key: rel
     value: 'shortcut icon'
   - key: href
-    value: //gravatar.loli.net/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=32
+    value: /public/image/headimage.jpg
 - tag: link # 下面是博客的css，有些插件的css是单独在插件里引用的，假如需要自己的css可以仿照去加在后面。无脑cdn加速了。
   var:
   - key: rel
@@ -182,21 +182,12 @@ sidebar:
     info: <br/>CCUT17级在读<br/>电子信息工程<br/> # 头像背后的信息
   description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
   social:
-  - title: rss
-    href: /atom.xml
-    class: 'fas fa-rss fa-fw'
   - title: chuoyanze@gmail.com # email
     href: mailto:chuoyanze@gmail.com
     class: 'fas fa-envelope fa-fw'
   - title: github
     href: //github.com/chuoyanze
     class: 'fab fa-github fa-fw'
-  - title: WuK # codeforces
-    href: //codeforces.com/profile/WuK
-    class: 'fas fa-chart-bar fw'
-  - title: WuK # vjudge
-    href: //vjudge.net/user/WuK
-    class: 'fas fa-smile fa-fw'
   - title: 1604288625 # qq
     class: 'fab fa-qq fa-fw'
   - title: chuoyanze # weixin
@@ -249,12 +240,6 @@ sidebar:
   copyright:
     enable: true
     text: '<script async defer src="https://buttons.github.io/buttons.js"></script><a class="github-button" aria-label="Star chuoyanze/chuoyanze.github.io on GitHub" href="https://github.com/chuoyanze/chuoyanze.github.io" data-icon="octicon-star" data-show-count="true">Star</a>'
-
-index:
-  showtag:
-  - 人生经验
-  - ICPC模板
-  - 水野爱
 
 post:
   meta:

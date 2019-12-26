@@ -267,7 +267,7 @@ post:
     #- id: qq
     #  src: //cdn.jsdelivr.net/gh/chuoyanze/chuoyanze.github.io/public/image/qqpay.jpg
     - id: alipay
-      src: //cdn.jsdelivr.net/gh/chuoyanze/chuoyanze.github.io/public/image/alipay.jpg
+      src: //cdn.jsdelivr.net/gh/chuoyanze/chuoyanze.github.io@1.0.1/public/image/alipay.jpg
 
 valine:
   enable: true

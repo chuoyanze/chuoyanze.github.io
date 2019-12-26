@@ -2,6 +2,14 @@
 layout: index
 title: content
 ---
+# introduction
+
+记录与整理学到的点点滴滴
+
+见证自己每天的进步
+
+
+
 ## Contact
 
 - Phone: **+86 15043809473**
@@ -15,13 +23,10 @@ title: content
 
 ## Skill
 
-- **C/C++**, Familiar
-  - **OpenMP**, Familiar
-  - **MPI**, Familiar&Learning
-  - **CUDA**, Learning
-- **Python**, Familiar
-- **Markdown**, Familiar
-- **LaTex**, Familiar
-- **Linux**, Familiar&Learning
-- **Git**, Familiar
-- **VSCode**, Familiar
+* tools
+  * [markdown](./_posts/tools/markdown)
+
+
+
+
+

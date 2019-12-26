@@ -24,7 +24,7 @@ title: content
 ## Skill
 
 * tools
-  * [markdown](./posts/tools/markdown/catalogue)
+  * [markdown](./posts/tools/catalogue)
 
 
 

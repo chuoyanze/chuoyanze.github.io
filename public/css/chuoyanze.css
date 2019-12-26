@@ -9,7 +9,7 @@
   }
 }
 body {
-  background: url(//raw.githubusercontent.com/chuoyanze/chuoyanze.github.io/master/public/image/background.png);
+  background: url(//cdn.jsdelivr.net/gh/chuoyanze/chuoyanze.github.io/public/image/background.png);
   background-size: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;

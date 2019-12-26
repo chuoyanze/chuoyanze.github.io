@@ -206,13 +206,13 @@ sidebar:
   simple_jekyll_search:
     enable: true
     autoloader: /public/simple-jekyll-search/autoloader.js
-    stylesheet: //cdn.jsdelivr.net/gh/chuoyanze/chuoyanze.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/simple-jekyll-search/search_box.min.css
+    stylesheet: //cdn.jsdelivr.net/gh/chuoyanze/chuoyanze.github.io/public/simple-jekyll-search/search_box.min.css
     src: //cdn.jsdelivr.net/npm/simple-jekyll-search/dest/simple-jekyll-search.min.js
     placeholder: 搜索博文
     json: /public/simple-jekyll-search/search.json
   jekyll_table_of_contents:
     enable: true
-    autoloader: //cdn.jsdelivr.net/gh/chuoyanze/chuoyanze.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/js/jekyll_table_of_contents.min.js
+    autoloader: //cdn.jsdelivr.net/gh/chuoyanze/chuoyanze.github.io/public/js/jekyll_table_of_contents.min.js
   busuanzi:
     enable: true
     src: //cdn.jsdelivr.net/npm/busuanzi/bsz.pure.mini.min.js
@@ -231,7 +231,7 @@ sidebar:
   run_time:
     enable: true
     src: /public/js/run_time.js
-    start_time: '10/04/2017 11:03:56' # 这是我第一篇CSDN博客的时间
+    start_time: '10/04/2019 11:03:56' # 这是我第一篇CSDN博客的时间
     alert: <i class="fas fa-cog fa-spin fa-fw"></i>
     day: 天
     hour: 时
@@ -261,13 +261,13 @@ post:
     text: 如果这篇博客帮助到你，可以请我喝一杯咖啡~
     img: # 万一真的有人打赏呢~
     - id: wechat
-      src: //cdn.jsdelivr.net/gh/chuoyanze/chuoyanze.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/image/wechatpay.jpg
-    - id: wechatappreciate
-      src: //cdn.jsdelivr.net/gh/chuoyanze/chuoyanze.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/image/wechatappreciate.jpg
-    - id: qq
-      src: //cdn.jsdelivr.net/gh/chuoyanze/chuoyanze.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/image/qqpay.jpg
+      src: //cdn.jsdelivr.net/gh/chuoyanze/chuoyanze.github.io/public/image/wechatpay.png
+    #- id: wechatappreciate
+    #  src: //cdn.jsdelivr.net/gh/chuoyanze/chuoyanze.github.io/public/image/wechatappreciate.jpg
+    #- id: qq
+    #  src: //cdn.jsdelivr.net/gh/chuoyanze/chuoyanze.github.io/public/image/qqpay.jpg
     - id: alipay
-      src: //cdn.jsdelivr.net/gh/chuoyanze/chuoyanze.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/image/alipay.jpg
+      src: //cdn.jsdelivr.net/gh/chuoyanze/chuoyanze.github.io/public/image/alipay.jpg
 
 valine:
   enable: true
@@ -287,7 +287,7 @@ valine:
 page404:
   search_children: # 腾讯公益
     enable: true
-    src: //qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js
+    src: 404.md
     charset: utf-8
     homePageUrl: '/'
     homePageName: 回到我的主页

@@ -12,9 +12,16 @@
 <body
   class="{{ site.body.theme-base }}{% if site.body.layout-reverse %} layout-reverse{% endif %}{% if site.body.sidebar-overlay %} sidebar-overlay{% endif %}">
   {% for node in site.script %}
-  <script {% for var in node.var %} {{ var.key }}="{{ var.value }}" {% endfor %}>
+  <script type="text/javascript" {% for var in node.var %} {{ var.key }}="{{ var.value }}" {% endfor %}>
   </script>
   {% endfor %}
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {inlineMath: [['$', '$']]},
+        messageStyle: "none"
+    });
+  </script>
+
   <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
      styles, `#sidebar-checkbox` for behavior. -->
   <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" />

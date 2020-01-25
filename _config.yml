@@ -120,28 +120,28 @@ script: # 需要在正文前调用的脚本或者插件的autoloader
 - var:
   - key: src
     value: //cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js # jQuery
-#- var:
-#  - key: size
-#    value: "90" #  the size of ribbon
-#  - key: alpha
-#    value: "0.6" # the opacity of line (0 ~ 1)
-#  - key: zIndex
-#    value: "-1"
-#  - key: src
-#    value: //cdn.jsdelivr.net/npm/ribbon.js/dist/ribbon.min.js # 彩带背景
-#- var:
-#  - key: color
-#    value: "0,0,0" # 线段颜色，RGB三色
-#  - key: pointColor
-#    value: "0,0,0" # 端点颜色，RGB三色
-#  - key: opacity
-#    value: "1" # 透明度
-#  - key: count
-#    value: "31" # 粒子数量
-#  - key: zIndex
-#    value: "-1"
-#  - key: src
-#    value: //cdn.jsdelivr.net/npm/canvas-nest.js/dist/canvas-nest.js
+- var:
+  - key: size
+    value: "90" #  the size of ribbon
+  - key: alpha
+    value: "0.6" # the opacity of line (0 ~ 1)
+  - key: zIndex
+    value: "-1"
+  - key: src
+    value: //cdn.jsdelivr.net/npm/ribbon.js/dist/ribbon.min.js # 彩带背景
+- var:
+  - key: color
+    value: "0,0,0" # 线段颜色，RGB三色
+  - key: pointColor
+    value: "0,0,0" # 端点颜色，RGB三色
+  - key: opacity
+    value: "1" # 透明度
+  - key: count
+    value: "31" # 粒子数量
+  - key: zIndex
+    value: "-1"
+  - key: src
+    value: //cdn.jsdelivr.net/npm/canvas-nest.js/dist/canvas-nest.js
 - var:
   - key: src
     value: //cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js # live2d
@@ -157,20 +157,20 @@ script: # 需要在正文前调用的脚本或者插件的autoloader
 - var:
   - key: src
     value: //cdn.jsdelivr.net/gh/chuoyanze/chuoyanze.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/js/prism.js
-  - var: mathjax
+- var: mathjax
   - key: src
     value: //cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
-- var:
-  - key: src
-    value: /public/js/katex.js
-  - key: js
-    value: //cdn.jsdelivr.net/npm/katex/dist/katex.min.js
-  - key: auto_render
-    value : //cdn.jsdelivr.net/npm/katex/dist/contrib/auto-render.min.js
-  - key: stylesheet
-    value: //cdn.jsdelivr.net/npm/katex/dist/katex.min.css
-  - key: delimiters  # 开启行内公式$\KaTeX$支持
-    value: true
+#- var:
+#  - key: src
+#    value: /public/js/katex.js
+#  - key: js
+#    value: //cdn.jsdelivr.net/npm/katex/dist/katex.min.js
+#  - key: auto_render
+#    value : //cdn.jsdelivr.net/npm/katex/dist/contrib/auto-render.min.js
+#  - key: stylesheet
+#    value: //cdn.jsdelivr.net/npm/katex/dist/katex.min.css
+#  - key: delimiters  # 开启行内公式$\KaTeX$支持
+#    value: true
 - var:
   - key: src
     value: //cdn.jsdelivr.net/gh/chuoyanze/chuoyanze.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/js/baidu_push.js

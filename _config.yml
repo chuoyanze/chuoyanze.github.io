@@ -157,9 +157,9 @@ script: # 需要在正文前调用的脚本或者插件的autoloader
 - var:
   - key: src
     value: //cdn.jsdelivr.net/gh/chuoyanze/chuoyanze.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/js/prism.js
-#- var: mathjax
-#  - key: src
-#    value: //cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+  - var: mathjax
+  - key: src
+    value: //cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 - var:
   - key: src
     value: /public/js/katex.js
